@@ -40,9 +40,6 @@ const IndexPage = (props: LayoutProps) =>
             “Good friends, good books, and a sleepy conscience: this is the ideal life.”
                 </p>
             <Header>Add Recommendations</Header>
-            <p>
-            Feel free to add suggestions to the club about certain upcoming genres.
-                </p>
           </Grid.Column>
           <Grid.Column width="6" floated="right">
             <img src={'https://media.giphy.com/media/NFA61GS9qKZ68/source.gif'} alt="Cat">
@@ -65,18 +62,8 @@ const IndexPage = (props: LayoutProps) =>
               Sharing knowledge is one way we can all connect with each other.
                 </p>
           </Grid.Column>
-          <Grid.Column>
-            <Header icon>
-              <Icon name="wizard"></Icon>
-              Another kind of magic!
-            </Header>
-            <p>
-              Meeting like minded people through books can be a productive way of finding common interest.
-                </p>
-          </Grid.Column>
         </Grid.Row>
       </Grid>
-     <SocialButtons />
     </Segment>
   </div>;
 
