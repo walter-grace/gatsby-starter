@@ -15,6 +15,7 @@ export const menuItems = [
   { name: "About", path: "/about/", exact: true, icon: "info circle" },
   { name: "Blog", path: "/blog/", exact: false, icon: "newspaper" },
   { name: "Poetry", path: "/poetry/", exact: false, icon: "tree" },
+  { name: "Art", path: "/ai/", exact: false, icon: "tree" }
 ];
 
 export interface LayoutProps {
