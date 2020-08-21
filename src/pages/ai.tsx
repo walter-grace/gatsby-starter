@@ -7,6 +7,7 @@ import GAN from "./BigBiGAN.jpeg";
 import AttnGAN from "./AttnGAN.jpeg";
 import Golem from "./golem.jpeg";
 import Sketch from './PhotoSketch.png';
+import Linkify from 'react-linkify';
 const ai = () => {
   return (
     <Container>
@@ -17,6 +18,14 @@ const ai = () => {
             Gallery
           </Header.Content>
         </Header>
+      </Segment>
+      <Segment vertical>
+        <h4>the weird stuff</h4>
+        <Linkify>
+        <h6>
+          https://n1cozw0rldz.netlify.app/index
+        </h6>
+        </Linkify>
       </Segment>
       <Segment vertical>
         <img src={Sketch} alt="I"></img>
