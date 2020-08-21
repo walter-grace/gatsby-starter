@@ -32,7 +32,7 @@ const poetry = () => {
       <Segment vertical>
         <p>
         What is needed in this moment? We must have beautiful things. The earth, the trees, the sounds of the sea. Let us say yes to all the things that are beginning
-        to awaken in us. We must say ues to each other, yes to ourselves.
+        to awaken in us. We must say yes to each other, yes to ourselves.
         </p>
       </Segment>
     </Container>

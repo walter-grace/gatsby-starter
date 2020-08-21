@@ -15,12 +15,10 @@ const AboutPage = () => {
         </Header>
       </Segment>
       <Segment vertical>
-        <p>
-        Book Club is about:
-        Spreading inspiration, encouraging collaboration, and creating ideas through books. #KAIZEN #becurious #VYBO
+        <p> 
+          Easy place to keep some of my data. Actor, Writer, Programmer.
         </p>
       </Segment>
-      <SocialButtons />
     </Container>
   );
 };
