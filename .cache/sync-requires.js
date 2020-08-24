@@ -10,6 +10,7 @@ exports.components = {
   "component---src-pages-about-tsx": hot(preferDefault(require("/Users/waltgrace/Downloads/gatsby-starter-master 2/src/pages/about.tsx"))),
   "component---src-pages-ai-tsx": hot(preferDefault(require("/Users/waltgrace/Downloads/gatsby-starter-master 2/src/pages/ai.tsx"))),
   "component---src-pages-blog-tsx": hot(preferDefault(require("/Users/waltgrace/Downloads/gatsby-starter-master 2/src/pages/blog.tsx"))),
+  "component---src-pages-forms-tsx": hot(preferDefault(require("/Users/waltgrace/Downloads/gatsby-starter-master 2/src/pages/forms.tsx"))),
   "component---src-pages-index-tsx": hot(preferDefault(require("/Users/waltgrace/Downloads/gatsby-starter-master 2/src/pages/index.tsx"))),
   "component---src-pages-interactivebooks-tsx": hot(preferDefault(require("/Users/waltgrace/Downloads/gatsby-starter-master 2/src/pages/interactivebooks.tsx"))),
   "component---src-pages-poetry-tsx": hot(preferDefault(require("/Users/waltgrace/Downloads/gatsby-starter-master 2/src/pages/poetry.tsx"))),

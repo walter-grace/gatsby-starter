@@ -12,7 +12,8 @@ const items = [
   { name: "Blog", path: "/blog/", exact: false },
   { name: "Interactive Books", path: "/books/", exact: true},
   { name: "Poetry", path: "/poetry/", exact: true},
-  { name: "Art", path: "/ai/", exact: true}
+  { name: "Art", path: "/ai/", exact: true},
+  { name: "Sign Up", path: "/forms/", exact: true, icon: "list"}
 ];
 
 const LinkStub = (props: any) =>

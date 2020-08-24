@@ -11,6 +11,7 @@ import {
   Icon,
   ButtonGroup,
 } from "semantic-ui-react";
+import Starfruit from './starfruitgan.jpeg'
 import SocialButtons from "../components/Buttons/Buttons";
 
 const IndexPage = (props: LayoutProps) =>
@@ -21,8 +22,12 @@ const IndexPage = (props: LayoutProps) =>
         Link={Link} pathname={props.location.pathname} items={menuItems} inverted
       />
       <Container text>
+        <Segment vertical>
+          <img src={Starfruit}></img>
         <Header inverted as="h1">StarFruit</Header>
-        <Header inverted as="h2">A blog and webspace to keep some cool things.</Header>
+        <Header inverted as="h2">A blog and webspace to keep cool things.</Header>
+        <Header inverted as="h2"> Open Source Magazine for Models and Photographers</Header>
+        </Segment>
         <ButtonGroup>
         <Button href="/blog"primary size="huge">Explore a project</Button>
         <Button basic color='teal' href="https://interact1vebook.netlify.app/"primary size="huge">Interactive Books</Button>

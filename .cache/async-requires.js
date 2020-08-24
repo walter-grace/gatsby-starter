@@ -7,6 +7,7 @@ exports.components = {
   "component---src-pages-about-tsx": () => import("./../src/pages/about.tsx" /* webpackChunkName: "component---src-pages-about-tsx" */),
   "component---src-pages-ai-tsx": () => import("./../src/pages/ai.tsx" /* webpackChunkName: "component---src-pages-ai-tsx" */),
   "component---src-pages-blog-tsx": () => import("./../src/pages/blog.tsx" /* webpackChunkName: "component---src-pages-blog-tsx" */),
+  "component---src-pages-forms-tsx": () => import("./../src/pages/forms.tsx" /* webpackChunkName: "component---src-pages-forms-tsx" */),
   "component---src-pages-index-tsx": () => import("./../src/pages/index.tsx" /* webpackChunkName: "component---src-pages-index-tsx" */),
   "component---src-pages-interactivebooks-tsx": () => import("./../src/pages/interactivebooks.tsx" /* webpackChunkName: "component---src-pages-interactivebooks-tsx" */),
   "component---src-pages-poetry-tsx": () => import("./../src/pages/poetry.tsx" /* webpackChunkName: "component---src-pages-poetry-tsx" */),
