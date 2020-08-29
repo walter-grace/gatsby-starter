@@ -35,6 +35,12 @@ const poetry = () => {
         to awaken in us. We must say yes to each other, yes to ourselves.
         </p>
       </Segment>
+      <Segment vertical>
+        <p>
+        To know reality and love is the
+        true test of virtue. 
+        </p>
+      </Segment>
     </Container>
   );
 };

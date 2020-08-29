@@ -8,6 +8,7 @@ import AttnGAN from "./AttnGAN.jpeg";
 import Golem from "./golem.jpeg";
 import Sketch from './PhotoSketch.png';
 import Linkify from 'react-linkify';
+import Self from './self.jpeg'
 const ai = () => {
   return (
     <Container>
@@ -32,7 +33,7 @@ const ai = () => {
         <img src={GAN} alt="I"></img>
       </Segment>
       <Segment vertical>
-        <img src={GAN} alt="I"></img>
+        <img src={Self} alt="I"></img>
         <img src={Sketch} alt="I"></img>
       </Segment>
       <Segment vertical>
